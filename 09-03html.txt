@@ -12,7 +12,7 @@
     <div class="nav">
         <div class="container">
             <div class="navbar">
-                <div class="nav__logo">
+                <div class="nav__logo">      
                     <img src="1.png" alt="">
                     <p></p>
                 </div>            
@@ -33,7 +33,7 @@
 
     <div class="header">
         <h1>Modern Comfortable <br>Home Furniture</h1>
-        <p>Furniture is onr of the most important parts of our homes and makes our homes beautiful and <br>comfortable. On our furniture site, you can find all kinds of furniture products for <br> your home.</p>
+        <p>Furniture is one of the most important parts of our homes and makes our homes beautiful and <br>comfortable. On our furniture site, you can find all kinds of furniture products for <br> your home.</p>
     </div>
               
     <section>
@@ -45,7 +45,7 @@
         <div class="cards">
             <div class="card">                 
                 <div>
-                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-solid fa-heart"></i>
                     <img src="cross.png" alt="">
                 </div>
                 <div class="cart_text">
@@ -59,7 +59,7 @@
             
         <div class="card">
             <div>
-            <i class="fa-regular fa-heart"></i>
+            <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -73,7 +73,7 @@
         
         <div class="card">
             <div>
-                <i class="fa-regular fa-heart"></i>
+                <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -87,7 +87,7 @@
 
         <div class="card">
             <div>
-                <i class="fa-regular fa-heart"></i>
+                <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -101,7 +101,7 @@
             
         <div class="card">
             <div>
-                <i class="fa-regular fa-heart"></i>
+                <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -115,7 +115,7 @@
         
         <div class="card">
             <div>
-                <i class="fa-regular fa-heart"></i>
+                <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -129,7 +129,7 @@
         
         <div class="card">
             <div>
-                <i class="fa-regular fa-heart"></i>
+                <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -143,7 +143,7 @@
     
         <div class="card">
             <div>
-                <i class="fa-regular fa-heart"></i>
+                <i class="fa-solid fa-heart"></i>
                 <img src="cross.png" alt="">
             </div>
             <div class="cart_text">
@@ -151,21 +151,21 @@
                 <div class="buy">
                     <p>4000$</p>
                     <button>Buy</button>
-            </div>
+                </div>
             </div>
         </div>
     </div>
     </section>
     
     <div class="text4">   
-            <h1>AVROPA İSTEHSAL DƏSTƏK</h1>
+            <h1>AVROPA <br> İSTEHSAL DƏSTƏK</h1>
             <p>Məhsullarımız Yüksək Keyfiyyətli Parçasından Hazırlanır və AVROPADA KÜÇÜK Qrup <br>CAFTSPEOPLE tərəfindən tikilir</p>      
     </div>
 
     <div class="text5">
         <div class="a">
             <h1>About</h1>
-        <p>Mebel veb saytı müştərilərə mebel məhsullarının satışı <br>üzrə ixtisaslaşmış onlayn platformadır. Bu veb-saytlar <br> müxtılif müştərilərin ehtiyaclarına cavab veren geniş <br>çeşiddə mebel əşyaları təklif edir. Mebel veb saytları <br>müştərilərə kərpic və harç mağazasına fiziki olaraq baş <br>çəkmədən evlərinin rahatlığında məhsullara baxmaq, <br>seçmək və almaq imkanı verir. Mebel veb saytı adətən <br>müştərilərə axtardıqları məhsulları asanlıqla naviqasiya <br>etməyə və tapmağa imkan verən istifadəçi dostu interfeysə <br>malikdir. Veb sayt mebel növü otaq üslub və ya materiala <br>görə təşkil edilə bilər. Müştərilərə məlumatlı satın alma <br>qərarları verməyə kömək etmək üçün hər bir məhsul <br>adətən ətraflı təsvirlər spefikasiyalar və çoxsaylı <br>yüksək keyfiyyətli şəkillərdə müşayiət olunur.</p>
+            <p>Mebel veb saytı müştərilərə mebel məhsullarının satışı <br>üzrə ixtisaslaşmış onlayn platformadır. Bu veb-saytlar <br> müxtılif müştərilərin ehtiyaclarına cavab veren geniş <br>çeşiddə mebel əşyaları təklif edir. Mebel veb saytları <br>müştərilərə kərpic və harç mağazasına fiziki olaraq baş <br>çəkmədən evlərinin rahatlığında məhsullara baxmaq, <br>seçmək və almaq imkanı verir. Mebel veb saytı adətən <br>müştərilərə axtardıqları məhsulları asanlıqla naviqasiya <br>etməyə və tapmağa imkan verən istifadəçi dostu interfeysə <br>malikdir. Veb sayt mebel növü otaq üslub və ya materiala <br>görə təşkil edilə bilər. Müştərilərə məlumatlı satın alma <br>qərarları verməyə kömək etmək üçün hər bir məhsul <br>adətən ətraflı təsvirlər spefikasiyalar və çoxsaylı <br>yüksək keyfiyyətli şəkillərdə müşayiət olunur.</p>
         </div>
         <div class="b">
             <img src="son.png" alt="">
